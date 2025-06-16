@@ -1,10 +1,9 @@
 ## 1. Was ist OmnAIView?
 
-OmnAIView ist eine Softwarearchitektur für modulare Open Source Frontend-Anwendungen zur Erfassung, Darstellung, Analyse und Speicherung von Zeitreihendaten aus verschiedenen OmnAI-Datasource-Protokoll konforme Datenquellen entwickelt wurde.
+OmnAIView ist eine Softwarearchitektur für modulare Open Source Frontend-Anwendungen zur Erfassung, Darstellung, Analyse und Speicherung von Zeitreihendaten aus verschiedenen OmnAI-Datasource-Protokoll-konformen Datenquellen.
 Eine mögliche Implementierung dieser Architektur kombiniert eine Angular-basierte Benutzeroberfläche mit Electron-Integration für plattformübergreifende Desktop-Anwendungen.
 
-Die Software-Architektur basiert auf Angular  und integriert den OmnAIScope DataServer als Backend-Komponente. 
-Dieser verwaltet über USB verbundene OmnAIScope-Geräte und stellt Binärdaten über REST- und WebSocket-Schnittstellen für die Frontend-Applikation bereit.
+Die OmnAIView-Architektur wird in einer Angular-Implementierung umgesetzt, die Schnittstellen zum OmnAIScope DataServer nutzt. Dieser verwaltet über USB verbundene OmnAIScope-Geräte und stellt Binärdaten über REST- und WebSocket-Schnittstellen für die Frontend-Applikation bereit.
 
 OmnAIView zeichnet sich durch seine modulare Architektur aus, die verschiedene Geräte-Schnittstellen unterstützt und damit eine universelle Plattform für Zeitreihendaten-Visualisierung bietet.
 Das System ermöglicht sowohl die Anbindung von Analysesystemen über REST API-Schnittstellen als auch die Nutzung eingebauter Analysefunktionen für mathematische Auswertungen.
