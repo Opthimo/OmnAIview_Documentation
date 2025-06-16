@@ -7,7 +7,7 @@ Die Software-Architektur basiert auf Angular  und integriert den OmnAIScope Data
 Dieser verwaltet über USB verbundene OmnAIScope-Geräte und stellt Binärdaten über REST- und WebSocket-Schnittstellen für die Frontend-Applikation bereit.
 
 OmnAIView zeichnet sich durch seine modulare Architektur aus, die verschiedene Geräte-Schnittstellen unterstützt und damit eine universelle Plattform für Zeitreihendaten-Visualisierung bietet.
-Das System ermöglicht sowohl die Integration externer Analysesysteme über REST APIs als auch die Nutzung integrierter Analysefunktionen für mathematische Auswertungen.
+Das System ermöglicht sowohl die Anbindung von Analysesystemen über REST API-Schnittstellen als auch die Nutzung eingebauter Analysefunktionen für mathematische Auswertungen.
 
 ## 2. Wer ist die Zielgruppe von OmnAIView?
 
