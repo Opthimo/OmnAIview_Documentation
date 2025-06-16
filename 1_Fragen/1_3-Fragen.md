@@ -20,8 +20,7 @@ Die Zielgruppe profitiert von der benutzerfreundlichen Oberfläche, die einfache
 
 ## 3. Was ist das Ziel von OmnAIView?
 
-Das primäre Ziel von OmnAIView besteht darin, einen effizienten und zugänglichen Prozess zur Informationsgewinnung aus Zeitreihendaten zu schaffen.
-Die Entwicklung adressiert das grundlegende Problem, dass Anwender typischerweise nicht messen, um bloße Zahlenwerte zu erhalten, sondern um daraus verwertbare Erkenntnisse abzuleiten.
+Das primäre Ziel von OmnAIView liegt in der Entwicklung und Dokumentation eines stabilen, nachvollziehbaren Open Source Workflows für Diagnosesysteme Visualisierungssystems von Zeitreihendaten. Dabei steht die Nachhaltigkeit des Entwicklungsprozesses im Vordergrund - Softwarequalität wird durch einen gut dokumentierten und langfristig stabilen Entwicklungsprozess erreicht, anstatt durch kurzfristige Optimierungen, die bei jeder Iteration verworfen werden müssen.
 
 OmnAIView zielt darauf ab, die traditionellen Barrieren der Datenanalyse zu überwinden, die oft umfangreiches wissenschaftliches Hintergrundwissen, die Implementierung eigener Algorithmen oder manuelle Berechnungen erfordern.
 Durch die Integration verschiedener Analyse-Tools und eine intuitive Benutzeroberfläche soll der Zugang zu hochwertiger Messtechnik demokratisiert werden.
