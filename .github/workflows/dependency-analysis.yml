@@ -1,0 +1,16 @@
+name: Analyze Dependencies
+on:
+  pull_request:
+    types: [opened, synchronize]
+    paths: ['app/**', 'package.json', 'angular.json']
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: opthimo/dependency-analyzer@v1
+        with:
+          docs-repo: 'Opthimo/OmnAIview_Documentation'
+          docs-token: ${{ secrets.DOCS_PAT }}
+          include-pattern: '\\.(ts|js)$'
+          exclude-pattern: '\\.spec\\.(ts|js)$'
